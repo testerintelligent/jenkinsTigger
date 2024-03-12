@@ -21,7 +21,7 @@ pipeline
         {
             steps 
             {
-                echo 'Testing Hello World - 5 Testing'
+                echo 'Testing Hello World - 2'
             }
 
         }
