@@ -21,7 +21,8 @@ pipeline
         {
             steps 
             {
-                echo 'Testing Hello World - 3'
+                echo 'Testing Hello World - 3.0'
+
             }
 
         }
